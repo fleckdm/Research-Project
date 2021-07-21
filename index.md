@@ -1,14 +1,14 @@
 =====================
 
-## Firstname Lastname
+## David Fleck
 
-### Description 
+### Educator 
 
-![ChangeMe](https://live.staticflickr.com/3559/5824727224_39c3ba8247_o.png)
+https://clipartmag.com/images/school-cartoon-pictures-11.jpg
 
-CHANGEME.com
+wikipedia.com
 
-@CHANGEME
+@david
 
 linkedin.com/in/CHANGEME
 
